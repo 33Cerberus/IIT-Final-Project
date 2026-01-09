@@ -28,11 +28,21 @@ A short, readable summary is returned to the user.
 
 ---
 
-**link to presentation:**
+## 📽 Presentation
+You can find the project presentation here:  
+🔗 **[Project Presentation](https://link-to-your-presentation)**
 
+---
 
-this project was done by: 
-Denys Piroh, Artem Mazur, 
+## 👥 Credits
+This project was developed by:
+
+- **Denys Piroh**
+- **Artem Mazur**
+- **Lorem Ipsum**
+
+---
+
 
 
 
