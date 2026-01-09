@@ -9,7 +9,7 @@ The goal of the project is to demonstrate how workflow automation can be used to
 - **n8n** – Workflow automation tool
 - **Docker** – Containerized environment
 - **Docker Compose** – Service orchestration
-- **External APIs** (optional) – Weather, knowledge, or AI APIs
+- **External APIs** – Weather, News, or AI APIs
 - **GitHub** – Version control
 
 ## 🧠 Workflow Logic
@@ -42,6 +42,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
