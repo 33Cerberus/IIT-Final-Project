@@ -14,11 +14,11 @@ The goal of the project is to demonstrate how workflow automation can be used to
 
 ## 🧠 Workflow Logic
 1. **Input Trigger**  
-   The workflow receives a text command in the format:
-2. **Keyword Extraction**  
+   The workflow receives a text command.
+3. **Keyword Extraction**  
 The keyword (e.g., `weather`) is parsed from the input.
 
-3. **Information Lookup**  
+4. **Information Lookup**  
 The workflow retrieves relevant information using:
 - Predefined responses, or
 - External APIs (depending on configuration).
@@ -42,6 +42,7 @@ This project was developed by:
 - **Lorem Ipsum**
 
 ---
+
 
 
 
