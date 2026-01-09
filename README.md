@@ -30,7 +30,9 @@ A short, readable summary is returned to the user.
 
 ## 📽 Presentation
 You can find the project presentation here:  
-🔗 **[Project Presentation](https://link-to-your-presentation)**
+🔗<a href="https://link-to-your-presentation" target="_blank" rel="noopener noreferrer">
+ <strong>Project Presentation</strong>
+</a>
 
 ---
 
@@ -42,6 +44,7 @@ This project was developed by:
 - **Lorem Ipsum**
 
 ---
+
 
 
 
