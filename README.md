@@ -40,9 +40,10 @@ This project was developed by:
 
 - **Denys Piroh**
 - **Artem Mazur**
-- **Lorem Ipsum**
+- **Mykhailo Boiko**
 
 ---
+
 
 
 
