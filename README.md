@@ -30,7 +30,7 @@ A short, readable summary is returned to the user.
 
 ## 📽 Presentation
 You can find the project presentation here:  
-🔗<a href="https://link-to-your-presentation" target="_blank" rel="noopener noreferrer">
+🔗<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">
  <strong>Project Presentation</strong>
 </a>
 
@@ -44,6 +44,7 @@ This project was developed by:
 - **Lorem Ipsum**
 
 ---
+
 
 
 
