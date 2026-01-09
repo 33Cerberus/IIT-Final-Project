@@ -30,7 +30,6 @@ A short, readable summary is returned to the user.
 
 ## 📽 Presentation
 You can find the project presentation here:  
-You can find the project presentation here:  
 🔗 **[Project Presentation](https://link-to-your-presentation)**
 
 ---
@@ -43,6 +42,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
