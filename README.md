@@ -28,9 +28,9 @@ The workflow retrieves relevant information using AI from:
 
 5. **Result**  
 The workflow gives the user a summary in the form:
-Background
-Recent developments
-Key points.
+-Background
+-Recent developments
+-Key points.
 
 ---
 
@@ -48,6 +48,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
