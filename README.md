@@ -14,19 +14,23 @@ The goal of the project is to demonstrate how workflow automation can be used to
 
 ## 🧠 Workflow Logic
 1. **Telegram trigger**  
-<img width="378" height="614" alt="image" src="https://github.com/user-attachments/assets/6579316c-98a5-4896-9ec8-0b1ac54cdaac" />
-
-   The workflow receives a text command via a telegram bot.
-3. **Keyword Extraction**  
+The workflow receives a text command /start via a telegram bot.
+2. **The user inputs a topic about which they want information**  
 The keyword (e.g., `weather`) is parsed from the input.
 
-4. **Information Lookup**  
-The workflow retrieves relevant information using:
-- Predefined responses, or
-- External APIs (depending on configuration).
+3. **Check topic**  
+The workflow checks whether the topic is appropriate and any if relevant information can be found.
 
-4. **Output Response**  
-A short, readable summary is returned to the user.
+4. **Information Lookup**  
+The workflow retrieves relevant information using AI from:
+- Wikipedia
+- News API
+
+5. **Result**  
+The workflow gives the user a summary in the form:
+Background
+Recent developments
+Key points.
 
 ---
 
@@ -44,6 +48,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
