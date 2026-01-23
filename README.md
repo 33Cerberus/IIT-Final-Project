@@ -36,7 +36,7 @@ The workflow gives the user info about the requested topic in the form of
 
 ## 📽 Presentation
 You can find the project presentation here:  
-🔗 **[Project Presentation](Keyword-Based Automation Workflow.pptx)**
+🔗 **Keyword-Based Automation Workflow.pptx**
 
 ---
 
@@ -48,6 +48,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
