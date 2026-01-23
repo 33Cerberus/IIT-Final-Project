@@ -27,16 +27,16 @@ The workflow retrieves relevant information using AI from:
 - News API
 
 5. **Result**  
-The workflow gives the user a summary in the form:
--Background
--Recent developments
--Key points.
+The workflow gives the user info about the requested topic in the form of
+- Background
+- Recent development
+- Key points
 
 ---
 
 ## 📽 Presentation
 You can find the project presentation here:  
-🔗 **[Project Presentation](https://link-to-your-presentation)**
+🔗 **[Project Presentation](Keyword-Based Automation Workflow.pptx)**
 
 ---
 
@@ -48,6 +48,7 @@ This project was developed by:
 - **Mykhailo Boiko**
 
 ---
+
 
 
 
